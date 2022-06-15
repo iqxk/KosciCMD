@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1578791536 source:c:\users\igor\desktop\kosci\main.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+
+1578790912 c:\users\igor\desktop\kosci\menu.h
+
+1578793873 source:c:\users\igor\desktop\kosci\menu.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	"menu.h"
+
+1580778884 source:c:\users\beata\desktop\studia-i-_-kosci-0.1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"operacje_na_consoli.h"
+	"kosci.h"
+
+1580753092 c:\users\beata\desktop\studia-i-_-kosci-0.1\menu.h
+
+1580832402 source:c:\users\beata\desktop\studia-i-_-kosci-0.1\menu.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	<fstream>
+	<sstream>
+	"menu.h"
+	"znaki_specjalne.h"
+	"operacje_na_consoli.h"
+
+1580164633 c:\users\beata\desktop\studia-i-_-kosci-0.1\znaki_specjalne.h
+
+1580833818 source:c:\users\beata\desktop\studia-i-_-kosci-0.1\kosci.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<algorithm>
+	<iomanip>
+	<unordered_set>
+	<fstream>
+	"kosci.h"
+	"operacje_na_consoli.h"
+	"znaki_specjalne.h"
+
+1580151547 c:\users\beata\desktop\studia-i-_-kosci-0.1\operacje_na_consoli.h
+
+1580152665 source:c:\users\beata\desktop\studia-i-_-kosci-0.1\operacje_na_consoli.cpp
+	<iostream>
+	<windows.h>
+	"operacje_na_consoli.h"
+
+1580838197 c:\users\beata\desktop\studia-i-_-kosci-0.1\kosci.h
+
+1580164487 source:c:\users\beata\desktop\studia-i-_-kosci-0.1\znaki_specjalne.cpp
+	<iostream>
+	"znaki_specjalne.h"
+
