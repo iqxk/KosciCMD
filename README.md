@@ -3,7 +3,7 @@
 
 <hr />
 
-<h1>Funkcjonalność:</h1>
+<h1>Funkcjonalność</h1>
 <ul>
   <li>Obsługa dwóch graczy</li>
   <li>Automatycznie aktualizująca się tabela punktów</li>
